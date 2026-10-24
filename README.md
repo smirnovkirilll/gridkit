@@ -1,6 +1,6 @@
 # gridkit
 
-Zero-build micro-framework for turning JSON into rich, filterable data tables.
+Thin wrapper over AG Grid — turns a JSON file into a filterable table site. No build step.
 
 ## What is it?
 
